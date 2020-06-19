@@ -1,0 +1,12 @@
+{
+  "name": "@ship-it/core",
+  "version": "1.0.1",
+  "description": "Batteries included.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/Artmann/ship-it",
+  "author": "Christoffer Artmann",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
